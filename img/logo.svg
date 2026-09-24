@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CafeMaq">
+  <!-- folha do cafeeiro -->
+  <path d="M30 27 C 33 12, 47 5, 60 5 C 58 19, 47 29, 30 27 Z" fill="#52b788"/>
+  <path d="M31 26 C 40 20, 50 12, 58 7" stroke="#1b4332" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <!-- haste -->
+  <path d="M30 27 C 27 30, 25 32, 23 34" stroke="#2d6a4f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M30 27 C 34 32, 38 34, 40 36" stroke="#2d6a4f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- cerejas (frutos maduros) -->
+  <circle cx="21" cy="44" r="15" fill="#c1121f"/>
+  <circle cx="42" cy="47" r="13" fill="#9d0208"/>
+  <!-- sulco da semente -->
+  <path d="M19 33 C 25 40, 16 48, 22 56" stroke="#780000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M41 37 C 46 43, 38 50, 43 57" stroke="#6a040f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- brilho -->
+  <ellipse cx="14" cy="38" rx="3.5" ry="2.2" fill="#ffffff" opacity="0.45" transform="rotate(-35 14 38)"/>
+  <ellipse cx="36" cy="42" rx="3" ry="1.8" fill="#ffffff" opacity="0.4" transform="rotate(-35 36 42)"/>
+</svg>

@@ -1,0 +1,2 @@
+# Bloqueia o acesso público a esta pasta (banco SQLite e scripts SQL)
+Require all denied
