@@ -172,7 +172,7 @@ Tecnologias previstas:
 * CSS;
 * JavaScript;
 * [Framework utilizado];
-* [Banco de dados utilizado];
+* MySQL
 * Git;
 * GitHub;
 * Visual Studio Code.
